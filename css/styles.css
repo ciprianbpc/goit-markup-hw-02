@@ -1,63 +1,62 @@
 
 
-
-body {
-    text-align: center;
-    width: 1440px;
-    height: 2592px; 
-    top: -1169px;
-    left: 370px;
-    font-family: Roboto, sans-serif;
-    background-color:#FFFFFF;
+.text-logo::after {
+    content: "Studio";
+    color: black;
 }
-.header {
-width: 1440px; 
-height: 72px; 
-border: 1px, 1px, 1px, 1px;
-
+.text-logo::before {
+    content: Web;
+    color: blue;
 }
 
-button {
-    cursor: pointer;
-    width: 169px;
-    height: 56px; top: 428px;
-    left: 636px;
-    padding: 16px,32px,16px,32px;
-    border-radius: 4px;
-     gap: 10px;
-    
-
+.main-nav li {
+    display: inline;
+    list-style-type: none;
 }
 
-.container {
-    display: inline-flex;
-}
-.main-menu {
-    display: inline-flex;
-}
 
-nav ul li {
-    list-style-type: none; 
-    display: inline-block;
-}
 
-.hero {
-    background-color:
-    width: 1440px;
-    height: 600px;
-    top: 72px;
-    text-align: center;
-    background: #2E2F42;
 
-}
 
-.main-info {
-    background-color: #2E2F42; ;
-}
 
-  .a:focus,
-  .a:hover {
-    color:red
-  }
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

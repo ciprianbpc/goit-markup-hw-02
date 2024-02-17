@@ -1,0 +1,19 @@
+.main-info a {
+     display: inline;
+}
+
+.main-info,filter {
+    display: inline;
+}
+
+.main-menu li {
+    display: inline;
+}
+
+.filter ul li  {
+    display: inline;
+}
+.raw1 raw2 raw3 {
+    display: inline-flex;
+}
+
