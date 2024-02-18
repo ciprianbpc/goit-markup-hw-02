@@ -32,9 +32,59 @@
     content: Web;
     color: blue;
 }
+.text-log: {
+    width: 115px;
+    height: 24px;
+}
+
+
 .main-nav ul li {
     list-style-type: none;
 } 
+.main-hero {
+       background: var(--navy-blue);
+       color: var(--white);
+}
+.main-hero {
+    width: 1440px;
+    height: 600px;
+}
+
+.main-hero {
+    display: center;
+}
+.main-hero h1 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--white);
+}
+
+.main-container {
+    display: inline-flex;
+    justify-content: center;
+}
+
+
+   
+   
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
 
 
 
