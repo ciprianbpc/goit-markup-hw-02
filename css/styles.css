@@ -1,5 +1,29 @@
+:root {
+    --iris: #4d5ae5;
+    --ocean: #404bbf;
+    --navy-blue: #2e2f42;
+    --green: #31d0aa;
+    --slate: #434455;
+    --light-slate: #8e8f99;
+    --cornflower: #e7e9fc;
+    --cloud: #f4f4fd;
+    --navy-blue-modal: rgba(46, 47, 66, 0.4);
+    --grey: rgba(46, 47, 66, 0.7);
+    --white: #fff;
+    --dairy: #fcfcfc;
 
-
+}
+:root {
+    --font-family: "Roboto", sans-serif;
+    --second-family: "Raleway", sans-serif;
+}
+.body {
+    width: 1440px;
+    height: 2592px;
+}
+.body {
+    background: var(--white);
+}
 .text-logo::after {
     content: "Studio";
     color: black;
@@ -8,11 +32,20 @@
     content: Web;
     color: blue;
 }
-
-.main-nav li {
-    display: inline;
+.main-nav ul li {
     list-style-type: none;
-}
+} 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
