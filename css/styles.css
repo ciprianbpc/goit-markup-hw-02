@@ -36,6 +36,14 @@
     width: 115px;
     height: 24px;
 }
+.global-header {
+    display: flex;
+    flex-flow: row wrap;
+}
+.global-header {
+    width: 1440px;
+    height: 72px;
+}
 
 
 .main-nav ul li {
@@ -64,8 +72,13 @@
 }
 
 .main-container {
-    display: inline-flex;
+    display: flex;
     justify-content: center;
+    margin-bottom: 30px;
+}
+.main-container {
+    width: 1128px;
+    height: 104px;
 }
 
 .team {
@@ -108,6 +121,19 @@
 }
 .card-1 {
     margin-left: 25px;
+}
+.photo-grid {
+    display: flex;
+    flex-flow: row wrap;
+}
+.photo-grid {
+    width: 1128px;
+    height: 412px;
+}
+.team {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
 }
 
 

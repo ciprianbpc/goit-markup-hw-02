@@ -26,12 +26,26 @@
     --font-family: "Roboto", sans-serif;
     --second-family: "Raleway", sans-serif;
 }
-
+.global-header {
+    width: 1440px;
+    height: 72px;
+}
+.global-header {
+    display: flex;
+}
 .main-menu ul li {
     list-style-type: none;
 }
 
 .filter ul li{
     list-style-type: none;
+}
+.filter {
+    display: flex;
+    flex-direction: row;
+}
+.filter {
+    width: 586px;
+    height: 48px;
 }
 
